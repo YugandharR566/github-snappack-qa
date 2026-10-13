@@ -8,3 +8,6 @@ This repository is used for functional and regression testing of the GitHub Snap
 - Nested directories
 - Source files
 - Test files
+## Pull Request Testing
+
+This section is added to test pull request handling.
