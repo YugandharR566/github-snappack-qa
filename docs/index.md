@@ -1,14 +1,11 @@
-# GitHub Snap Pack QA Documentation
+# GitHub Snap Pack QA Documentation - Updated Branch
 
-This document is used to test the GitHub Docs Read Snap.
+This version is present only on the secondary testing branch.
 
 ## Purpose
 
-Validate documentation retrieval from a GitHub repository.
+Validate branch-specific documentation retrieval.
 
-## Test Scenarios
+## Branch Verification
 
-- Read a Markdown file.
-- Validate document content.
-- Validate title extraction.
-- Validate file metadata.
+The expected branch is qa-test-branch.
